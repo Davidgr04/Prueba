@@ -14,7 +14,7 @@ La pagina official de [Google](https://www.google.com) és https://www.google.co
 
 :shipit: ok :+1:
 
-| Primere encabezado | Segundo encabezado |
+| :+1: | :+2: | :+3: |
 | ------------- | ------------- |
-| Conenido de la celda | Conenido de la celda |
-| Conenido de la celda | Conenido de la celda |
+| Conenido de la celda | Conenido de la celda | Conenido de la celda |
+| Conenido de la celda | Conenido de la celda | Conenido de la celda |
