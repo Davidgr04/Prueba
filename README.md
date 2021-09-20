@@ -9,5 +9,5 @@ Valorant
 ```
 La pagina official de [Google](https://www.google.com) és https://www.google.com
 1.  Primer elemento de la lista
-  - Primer elemento de la lista anidado
-    - Segundo elemento de la lista anidado
+    - Primer elemento de la lista anidado
+       - Segundo elemento de la lista anidado
