@@ -7,4 +7,4 @@ Copiar abajo con comillas arriba
 ```
 Valorant
 ```
-La pagina official de [Google] és(https://www.google.com)
+La pagina official de [Google] és (https://www.google.com)
