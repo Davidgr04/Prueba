@@ -15,8 +15,8 @@ La pagina official de [Google](https://www.google.com) és https://www.google.co
 :shipit: ok :+1:
 
 | :one: | :two: | :three: |
-| :------------- | :--: | -------------: |
-| hey | hey | hey |
+| :------------- | :--: | ---: |
+| hey | hey | erferfefhey |
 | hey | hey | hey |
 | hey | hey | hey |
 | hey | hey | hey |
