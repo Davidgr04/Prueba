@@ -16,13 +16,5 @@ La pagina official de [Google](https://www.google.com) és https://www.google.co
 
 | :one: | :two: | :three: |
 | :------------- | :--: | ---: |
-| hey | hey | hey |
-| hey | hey | hey |
-| hey | hey | hey |
-| hey | hey | hey |
-| hey | hey | hey |
-| hey | hey | hey |
-| hey | hey | hey |
-| hey | hey | hey |
-| hey | hey | hey |
+| hey | hey |            hey |
 | hey | hey | hey |
